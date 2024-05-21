@@ -1,4 +1,4 @@
 
-”
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÃ â8œ„åÖù1J$9cbc17d8-b7dc-4a1a-ab83-0a2381e69ef4
-m	java:S106"+Replace this use of System.out by a logger.(ßÃ â8„åÖù1J$a1728925-97fb-4699-80cb-82cfac574065
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÃ â8œ«××ù1
+G	java:S106"+Replace this use of System.out by a logger.(ßÃ â8«××ù1
