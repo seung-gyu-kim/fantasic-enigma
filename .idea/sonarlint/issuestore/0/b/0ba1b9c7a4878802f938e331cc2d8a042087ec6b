@@ -1,7 +1,6 @@
 
-7
-java:S1220""Move this file to a named package.8µÌÚ×ù1
+]
+java:S1220""Move this file to a named package.8µÌÚ×ù1J$41a66e34-386b-4e77-85d8-c1cb25aba40e
 n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÃ â8½ÌÚ×ù1
-G	java:S106"+Replace this use of System.out by a logger.(ßÃ â8¿ÌÚ×ù1
-]	java:S125"<This block of commented-out lines of code should be removed.(ùÖŒÚüÿÿÿÿ8ÁÌÚ×ù1
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÃ â8¹¸ë×ù1
+G	java:S106"+Replace this use of System.out by a logger.(ßÃ â8»¸ë×ù1
