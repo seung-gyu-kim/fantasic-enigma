@@ -1,5 +1,5 @@
 
-f
-java:S3457	"%String contains no format specifiers.(Šªž„ýÿÿÿÿJ$910b0607-ebf1-4770-a8f1-c53b272d1da5
-k	java:S106	"+Replace this use of System.out by a logger.(Šªž„ýÿÿÿÿJ$1e5cdfb4-41df-4751-9a2f-0a72d6649aa9
-k	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿJ$5b8604c2-deb1-43a8-afca-64d76797e0a6
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÃ â8ÛžÏÖù1J$a1b3185d-b03e-400f-8122-82e05bd1d89e
+m	java:S106"+Replace this use of System.out by a logger.(ßÃ â8ÜžÏÖù1J$f5df1500-a012-477e-a3c9-9ce1e9a0ef19
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ùÖŒÚüÿÿÿÿ8àžÏÖù1J$f9188c04-1c5b-463f-850b-88272e809200
