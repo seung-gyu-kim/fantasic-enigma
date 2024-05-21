@@ -43,3 +43,5 @@ bin/
 
 ### SonarLint ###
 .idea/sonarlint
+
+.idea
