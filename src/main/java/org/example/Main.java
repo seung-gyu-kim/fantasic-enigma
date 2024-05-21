@@ -7,7 +7,7 @@ public class Main {
 
         int param = sc.nextInt();
 
-        Calculable expression = new OOOExpression();
+        Calculable expression = new AddExpression();
 
         System.out.printf("my expression's result : %d \n", expression.calculate(param));
     }
@@ -18,9 +18,9 @@ interface Calculable {
 }
 
 //본인이 작성한 코드를 붙여넣어주세요!
-/*class OOOExpression implements Calculable{
+class AddExpression implements Calculable {
     @Override
     public int calculate(int param) {
-        return <코드>;
+        return param + 10;
     }
-}*/
+}
