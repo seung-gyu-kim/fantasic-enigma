@@ -1,5 +1,7 @@
 
-”
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÃ â8ÛÏÖù1J$a1b3185d-b03e-400f-8122-82e05bd1d89e
-m	java:S106"+Replace this use of System.out by a logger.(ßÃ â8ÜÏÖù1J$f5df1500-a012-477e-a3c9-9ce1e9a0ef19
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ùÖŒÚüÿÿÿÿ8àÏÖù1J$f9188c04-1c5b-463f-850b-88272e809200
+7
+java:S1220""Move this file to a named package.8µÌÚ×ù1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÃ â8½ÌÚ×ù1
+G	java:S106"+Replace this use of System.out by a logger.(ßÃ â8¿ÌÚ×ù1
+]	java:S125"<This block of commented-out lines of code should be removed.(ùÖŒÚüÿÿÿÿ8ÁÌÚ×ù1
